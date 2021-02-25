@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Capitales de Europa</string>
+    <string name="label_capital">INDICA SU CAPITAL</string>
+    <string name="label_empezar">Pulse para empezar</string>
+    <string name="label_cambiar">Mostrar otro Pais</string>
+    <string name="label_reiniciar">Volver a empezar</string>
+    <string name="label_noCheck">Debes seleccionar una opción</string>
+</resources>
